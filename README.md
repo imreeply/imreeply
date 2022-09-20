@@ -5,4 +5,4 @@
 ---
 
 ### 👺 Me :
-- Hello! Welcome to my github profile, here I save the projects or college assignments that I have ever made, I'm just a technology enthusiast, and still a beginner in programming languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Hello! Welcome to my github profile, this is my work <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
